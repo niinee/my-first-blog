@@ -1,0 +1,8 @@
+*.pyc
+*~
+__pycache__
+project1
+niinee.github.io
+db.sqlite3
+/static
+.DB_Store
